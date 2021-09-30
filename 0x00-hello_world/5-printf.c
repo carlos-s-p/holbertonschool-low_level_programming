@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * printf: printf message "with proper grammar..."
+ * Return:imprime un mensaje "with proper grammar, ..."
  */
 int main(void)
 {
