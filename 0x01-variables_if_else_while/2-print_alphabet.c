@@ -2,7 +2,7 @@
 #include  <stdio.h>
 
 /**
- * main - prints the alphabet
+ * main - prints the alphabet letters
  *
  * Return: Returns 0
  */
