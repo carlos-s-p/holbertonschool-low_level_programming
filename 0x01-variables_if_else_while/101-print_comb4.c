@@ -35,8 +35,8 @@ int main(void)
 
 	if (j <= 54)
 	{
-	putchar(32);
 	putchar(44);
+	putchar(32);
 	}
 
 	}
