@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - prints combinations of three digits, not repeated 
+ * main - prints combinations of three digits, not repeated
  *
  * Return: Returns 0
  */
