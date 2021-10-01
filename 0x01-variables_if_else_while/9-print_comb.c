@@ -1,5 +1,5 @@
 #include <stdlib.h>
-
+#include <stdio.h>
 /**
  * main - prints 1 combinations of the digits base 10, separated by commas
  *
