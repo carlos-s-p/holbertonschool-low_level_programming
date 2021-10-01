@@ -1,5 +1,5 @@
 #include <stdlib.h>
-
+#include <stdio.h>
 /**
  * main - prints the alphabet lowercase and UPPERCASE
  *
@@ -21,6 +21,6 @@ int main(void)
 	putchar(nm);
 	nm++;
 	}
-	putchar(13) ;
+	putchar(13);
 	return (0);
 }
