@@ -1,5 +1,5 @@
 #include <stdlib.h>
-
+#include <stdio.h>
 /**
  * main - prints combinations of two different digits, not equal
  *
