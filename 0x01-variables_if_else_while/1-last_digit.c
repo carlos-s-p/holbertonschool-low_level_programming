@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 /**
- * main - Prints if the last digit of a random number
+ * main - Prints if the last digit of a random number is
  *
  * Return: Returns 0
  */
