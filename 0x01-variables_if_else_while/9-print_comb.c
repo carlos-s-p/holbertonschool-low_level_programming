@@ -16,6 +16,7 @@ int main(void)
 	if (n != 58)
 	{
 	putchar(44);
+	putchar(32);
 	}
 	}
 	putchar(13);
