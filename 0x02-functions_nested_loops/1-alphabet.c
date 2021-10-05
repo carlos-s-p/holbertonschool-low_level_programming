@@ -20,7 +20,7 @@ void print_alphabet(void)
 	{
 	impre = 10;
 	}
-	putchar(impre);
+	_putchar(impre);
 	}
 
 
