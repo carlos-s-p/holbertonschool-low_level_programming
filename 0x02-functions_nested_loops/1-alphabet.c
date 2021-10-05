@@ -8,9 +8,19 @@ void print_alphabet(void)
 
 	int i;
 
-	for (i = 97; i <= 122; i++)
+	int impre;
+
+	for (i = 97; i <= 123; i++)
 	{
-	_putchar(i);
+	if (i != 123)
+	{
+	impre = i;
+	}
+	else
+	{
+	impre = 10;
+	}
+	putchar(impre);
 	}
 
 
