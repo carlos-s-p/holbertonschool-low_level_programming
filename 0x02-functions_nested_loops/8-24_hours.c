@@ -7,21 +7,24 @@ int _putchar(char c);
 void jack_bauer(void)
 {
 
+	int i;
 
-	int val1;
+	int j;
 
-	int val2;
+	int x;
 
-	for (int i = 0; i <= 2; i++)
+	int y;
+
+	for (i = 0; i <= 2; i++)
 	{
 
-	for (int j = 0; j <= 9; j++)
+	for (j = 0; j <= 9; j++)
 	{
-		for (int x = 0; x <= 5; x++)
+		for (x = 0; x <= 5; x++)
 		{
 
 
-		for (int y = 0; y <= 9; y++)
+		for (y = 0; y <= 9; y++)
 
 		{
 
