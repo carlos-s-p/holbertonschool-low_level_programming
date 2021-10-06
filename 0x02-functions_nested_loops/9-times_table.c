@@ -27,6 +27,13 @@ void times_table(void)
 
 		d2 = producto % 10;
 
+		if ((producto <= 9) && (j >= 2))
+		{
+		_putchar(32);
+
+		}
+
+
 		if (producto > 9)
 		{
 		_putchar('0' + d1);
@@ -45,7 +52,7 @@ void times_table(void)
 
 		}
 
-
+		_putchar(32);
 	}
 		_putchar(10);
 	}
